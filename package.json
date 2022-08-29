@@ -1,0 +1,15 @@
+{
+  "name": "pgslot",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "# pgslot : เว็บสล็อต ที่ 1 มีคนเล่นเยอะที่สุด สมัครสมาชิก PG SLOT เครดิตฟรี โบนัสฟรี 100% ที่ payu168.com",
+  "keywords": [
+    "pgslot",
+    "# pgslot : เว็บสล็อต ที่ 1 มีคนเล่นเยอะที่สุด สมัครสมาชิก PG SLOT เครดิตฟรี โบนัสฟรี 100% ที่ payu168.com"
+  ],
+  "repository": "https://github.com/payu168/pgslot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
